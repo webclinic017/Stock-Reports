@@ -127,3 +127,6 @@ dmypy.json
 
 # API Keys
 *config.py
+
+# AWS Keys
+*.pem
